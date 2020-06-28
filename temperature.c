@@ -20,7 +20,7 @@ for (fahr = lower; fahr <= upper; fahr += step){
 celsius = (fahr-32) *5 /9;
 printf("%d\t%d\n", fahr, celsius);
 
-
+//pagina 15 livro the c programming language
 }
 
 }
